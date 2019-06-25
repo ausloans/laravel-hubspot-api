@@ -10,7 +10,10 @@ Most of the hard-working code is modified classes from [HubSpot/haPiHP](https://
 
 ## Setup
 
-1.) clone the repository to your project vendor folder
+1.) install via composer
+```
+composer require ausloans/laravel-hubspot
+```
 
 2.) then run 
 
