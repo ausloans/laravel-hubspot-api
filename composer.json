@@ -1,15 +1,9 @@
 {
-    "name": "fungku/laravel-hubspot",
-    "description": "PHP HubSpot API wrapper for Laravel 4",
-    "license": "Apache-2.0",
-    "authors": [
-        {
-            "name": "Fungku",
-            "email": "fungku@gmail.com"
-        }
-    ],
+    "name": "ausloans/laravel-hubspot",
+    "description": "PHP HubSpot API wrapper for Laravel 5.5+.",
+    "license": "Apache-2.0",    
     "require": {
-        "fungku/hubspot": "1.0.*"
+        "ausloans/hubspot": "1.0.*"
     },
     "autoload": {
         "classmap": [
